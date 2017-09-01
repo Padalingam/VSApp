@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:Testing"
              x:Class="Testing.MainPage">
 
-	<Label Text="Testing"
+	<Label Text="Again modified"
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
